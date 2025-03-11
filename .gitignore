@@ -1,5 +1,8 @@
 # Ignore Gradle project-specific cache directory
 .gradle
+junit-reports
+.cp
+kls_database.db
 
 # Ignore Gradle build output directory
 build
